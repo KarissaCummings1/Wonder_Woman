@@ -25,3 +25,11 @@ a{
 	color: black;
 	font-weight: 900;
 }	
+
+.red-link {
+		color: red;
+}
+
+.green-link {
+		color: green;
+}
